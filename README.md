@@ -5,7 +5,7 @@
 
 **Zero RoboEyes** is a high-performance Arduino library for drawing smoothly animated robot eyes on OLED displays (SSD1306, SH1106, SSD1322, etc.). Using fractional easing for transitions, it breathes life into DIY robots by simulating organic movement and complex facial expressions.
 
-## 🚀 New in v1
+## 🚀Zero RoboEyes (v1)
 - **56 Distinct Emotions:** Expanded from 4 basic moods to 56, including "Cozmo-style" expressions.
 - **Specialized Shape Engine:** Native rendering for complex glyphs like `HYPNOTIZED` spirals, `BARCODE_SCAN` lines, and `SYSTEM_ERROR` glitches.
 - **Dynamic Eyelid Clipping:** Advanced math-based clipping for `Angry`, `Sad`, `Tired`, and `Happy` overlays.
