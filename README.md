@@ -12,7 +12,11 @@
 - **Forehead Sweat:** Built-in animated sweat droplet physics for stressed or overworked states.
 
 ---
+<div align="center">
+  <img width="600" height="728" alt="image" src="https://github.com/user-attachments/assets/f3c04a50-61c1-48e3-8ff4-02d15b68ce3b" />
+</div>
 
+---
 ## 🛠 Installation
 
 1. Open the **Arduino IDE**.
