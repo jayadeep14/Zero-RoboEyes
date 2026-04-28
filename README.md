@@ -67,6 +67,17 @@
 
 ---
 
+<img width="487" height="357" alt="image" src="https://github.com/user-attachments/assets/2610d075-f434-435d-921a-a4209b2b1707" />
+
+| OLED Pin | ESP32-C3 Pin | Wire Color |
+| :--- | :--- | :--- |
+| **GND** | GND | Black |
+| **VCC** | 3V3 | Red |
+| **SCL** | GPIO 9 | Green |
+| **SDA** | GPIO 8 | Green |
+
+---
+
 ## 💻 Example Code
 
 ```cpp
